@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitRea.iml" filepath="$PROJECT_DIR$/GitRea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aasdfsd/aasdfsd.iml" filepath="$PROJECT_DIR$/aasdfsd/aasdfsd.iml" />
+    </modules>
+  </component>
+</project>
